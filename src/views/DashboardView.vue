@@ -163,6 +163,14 @@ onMounted(async () => {
         Live demo data · Firestore connected
       </div>
     </div>
+    <!-- HELLO WORLD CARD -->
+    <section
+      class="mb-6 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm"
+    >
+      <p class="text-lg font-bold text-slate-900">
+        hellow world
+      </p>
+    </section>
     <!-- ================================================= -->
     <!-- FIRESTORE CATEGORY TEST -->
     <!-- ================================================= -->
